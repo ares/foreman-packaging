@@ -1,3 +1,9 @@
+ruby-powerbar (1.0.11-2) UNRELEASED; urgency=low
+
+  * SOMETHING (Closes: #nnnn)
+
+ -- Marek Hulan <mhulan@redhat.com>  Thu, 05 Sep 2013 19:06:43 +0200
+
 ruby-powerbar (1.0.11-1) UNRELEASED; urgency=low
 
   * Initial release (Closes: #nnnn)
